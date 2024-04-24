@@ -1,0 +1,82 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Lord of the Rings: The Fellowship of the Ring",
+      "author": "J. R. R. Tolkien",
+      "image": "https://i.ibb.co/605kfQg/THE-LORD-OF-THE-RINGS-THE-FELLOWSHIP-OF-THE-RING-RUIZ-BURGOS.jpg",
+      "review": "An epic tale of adventure and heroism, following Frodo Baggins and the Fellowship on their quest to destroy the One Ring.",
+      "totalPages": 492,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Epic", "Friendship"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 2,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/K0pntkb/aes-film-pride-and-prejudice-circa-2005.jpg",
+      "review": "A witty and timeless social commentary, exploring themes of love, class, and societal expectations.",
+      "totalPages": 224,
+      "rating": 4.2,
+      "category": "Romance",
+      "tags": ["Classic", "Witty", "Social Commentary"],
+      "publisher": "Thomas Egerton",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/jgBsYZC/To-Kill-a-Mockingbird.jpg",
+      "review": "A powerful and moving story about racial injustice in the American South, seen through the eyes of a young girl.",
+      "totalPages": 324,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Social Justice", "Historical"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "scienceFiction": "Science Fiction",
+      "image": "https://i.ibb.co/fMbsfCr/25-Books-To-Read-Before-You-Die.jpg",
+      "review": "A humorous and satirical sci-fi adventure about an Englishman and his alien companions traveling through space.",
+      "totalPages": 192,
+      "rating": 4.5,
+      "category": "Science Fiction",
+      "tags": ["Humor", "Satire", "Space Adventure"],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    },
+    {
+      "bookId": 5,
+      "bookName": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "image": "https://i.ibb.co/nz255Ld/The-secret-of-a-good-old-age-is-simply-an-honorable-pact-with-solitude-Gabriel-Garci-a-Ma-rquez-One.jpg",
+      "review": "A magical realist masterpiece exploring the rise and fall of a family through generations in a fictional Colombian town.",
+      "totalPages": 487,
+      "rating": 4.9,
+      "category": "Magical Realism",
+      "tags": ["Family Saga", "Historical Fiction", "Latin American Literature"],
+      "publisher": "Editorial Sudamericana",
+      "yearOfPublishing": 1967
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Catcher in the Rye",
+      "author": "J. D. Salinger",
+      "image": "https://i.ibb.co/q5hDyK6/The-Catcher-in-the-Rye.jpg",
+      "review": "A poignant coming-of-age story about alienation and disillusionment, following a teenage boy expelled from boarding school.",
+      "totalPages": 234,
+      "rating": 4.3,
+      "category": "Coming-of-Age",
+      "tags": ["Alienation", "Disillusionment", "Bildungsroman"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    }
+  ]
+  
