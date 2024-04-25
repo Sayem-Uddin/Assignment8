@@ -16,9 +16,9 @@ const ListedBooks = () => {
             <button className="btn bg-[#23BE0A] flex gap-2 text-white font-bold justify-center items-center hover:bg-[#23BE0A] mx-auto  ">Short By<FaAngleDown /></button>
            </div>
            <div>
-            <Link to="/ReadBooks"><button className="  text-black px-4 py-2">Read Books</button></Link>
-           <Link to="/Wishlist">
-           <button  className="  text-black px-4 py-2">Wish List</button></Link>
+            <button className="  text-black px-4 py-2">Read Books</button>
+           
+           <button  className="  text-black px-4 py-2">Wish List</button>
            </div>
              <div className="grid grid-cols-1 gap-2">
              <ReadBooks></ReadBooks>
