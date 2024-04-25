@@ -1,10 +1,10 @@
+
 import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
 import { getstoredReadBooks } from "../../utility/localStorage";
 import ReadBooksCard from "../ReadBooksCard/ReadBooksCard";
 
-
-const ReadBooks = () => {
+const WishlistBooks = () => {
     const Books = useLoaderData();
    
     const [book,setBook] = useState([]);
@@ -17,7 +17,6 @@ const ReadBooks = () => {
     },[]
 
     )
-    
     return (
         <div>
            
@@ -32,4 +31,4 @@ const ReadBooks = () => {
     );
 };
 
-export default ReadBooks;
+export default WishlistBooks;

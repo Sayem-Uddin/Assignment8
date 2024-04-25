@@ -2,7 +2,7 @@ import { CiLocationOn } from "react-icons/ci";
 import { GoPeople } from "react-icons/go";
 import { SiPagekit } from "react-icons/si";
 import { Link } from "react-router-dom";
-const ReadBooksCard = ({Books}) => {
+const WishlistBooksCard = ({Books}) => {
     const {bookId,bookName,image,author,rating,category,tags,yearOfPublishing,totalPages,publisher} = Books
     return (
         <div>
@@ -43,4 +43,4 @@ const ReadBooksCard = ({Books}) => {
     );
 };
 
-export default ReadBooksCard;
+export default WishlistBooksCard;
